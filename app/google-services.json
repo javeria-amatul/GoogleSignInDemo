@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058966842578",
+    "project_id": "summer-prism-197119"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058966842578:android:3a9cdb8ec4a0ce43",
+        "android_client_info": {
+          "package_name": "com.example.android.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058966842578-kgcru84aahbbikf9sj89ebcnmbinqun9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1058966842578-0j4bkmcc8isn4he3s783c2lt7cgutr64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.googlesignindemo",
+            "certificate_hash": "1c475d638250056666e1ee3f6c0e4965cc87ca3f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXtNAhuwCCtWwnT5LjyRZCm2lldmsi5rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
